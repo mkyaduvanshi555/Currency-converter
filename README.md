@@ -1,11 +1,5 @@
 ### Modern Currency Converter
 
-**Live Demo**
-
-[**Use the Live Converter Here**](https://www.google.com/search?q=https://mkyaduvanshi555.github.io/Currency-converter/)
-
------
-
 **Introduction**
 
 This project is a modern, responsive currency conversion application. It allows users to quickly convert an amount from one currency to another using up-to-date exchange rates, demonstrating a practical application of front-end development skills and API integration.
