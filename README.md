@@ -1,5 +1,6 @@
 ### Modern Currency Converter
 
+-----
 
 **Introduction**
 
